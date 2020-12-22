@@ -26,3 +26,5 @@ fields:
     schema:
       format: markdown
   label: Projektbeschreibung
+pages:
+- projects/Die Kirchen von St Heinzberg.md
