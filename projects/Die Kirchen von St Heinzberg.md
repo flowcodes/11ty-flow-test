@@ -1,7 +1,7 @@
 ---
-titel: ''
-projektstart: 
-projektbeschreibung: ''
+titel: Die Kirchen von St. Heinzberg
+projektstart: 2020-12-08T23:00:00Z
+projektbeschreibung: Was ist los in Heinzberg?
 
 ---
 ## Ein tolles **neues Projekt** entsteht.
