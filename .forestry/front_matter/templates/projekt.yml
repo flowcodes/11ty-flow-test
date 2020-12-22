@@ -26,5 +26,12 @@ fields:
     schema:
       format: markdown
   label: Projektbeschreibung
+- name: content_blocke
+  type: blocks
+  label: Content Blöcke
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - projects/Die Kirchen von St Heinzberg.md
