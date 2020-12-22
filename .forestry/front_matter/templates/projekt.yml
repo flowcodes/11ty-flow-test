@@ -17,3 +17,12 @@ fields:
     time_format: 
     display_utc: false
   label: Projektstart
+- name: projektbeschreibung
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Projektbeschreibung
